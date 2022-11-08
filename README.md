@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A human head weighs eight pounds.
 
-- I'm on mastodon: <a href="https://fosstodon.org/web/@monteslu" rel="me">@monteslu@fosstodon.org</a>
+- I'm on mastodon: <a rel="me" href="https://fosstodon.org/@monteslu">@monteslu@fosstodon.org</a>
